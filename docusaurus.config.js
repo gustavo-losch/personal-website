@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Gustavo Losch do Amaral',
-  tagline: 'Personal information website',
+  tagline: 'Data Science | Machine Learning | Researcher',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -77,7 +77,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Gustavo Lösch do Amaral',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
