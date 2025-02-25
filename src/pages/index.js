@@ -3,32 +3,33 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
-  
+
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container text-center">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 className={styles.heroTitle}>{siteConfig.title}</h1>
+        <p className={styles.heroSubtitle}>{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link 
-            className="button button--secondary button--lg" 
-            to="https://github.com/gustavo-losch">
+          <Link
+            className={clsx('button button--secondary button--lg', styles.button)}
+            to="https://github.com/gustavo-losch"
+          >
             GitHub
           </Link>
-          <Link 
-            className="button button--secondary button--lg" 
-            to="https://www.linkedin.com/in/gustavo-losch">
+          <Link
+            className={clsx('button button--secondary button--lg', styles.button)}
+            to="https://www.linkedin.com/in/gustavo-losch"
+          >
             LinkedIn
           </Link>
-          <Link 
-            className="button button--secondary button--lg" 
-            to="">
+          <Link
+            className={clsx('button button--secondary button--lg', styles.button)}
+            to="https://drive.google.com/file/d/13ANpJc4xBQA38je2tTnnJfq8nC4P09Hw/view?usp=sharing"
+          >
             Currículo
           </Link>
         </div>
@@ -37,14 +38,13 @@ function HomepageHeader() {
   );
 }
 
-
-
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`Gustavo Lösch do Amaral ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Portfólio e informações sobre Gustavo Lösch do Amaral."
+    >
       <HomepageHeader />
       <main>
         <HomepageFeatures />

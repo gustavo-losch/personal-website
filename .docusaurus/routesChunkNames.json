@@ -1,273 +1,316 @@
 {
-  "/personal-website/blog-a06": {
-    "__comp": "a6aa9e1f",
+  "/personal-website/__docusaurus/debug-363": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-docusaurus-debugb-38-b4f"
+    }
+  },
+  "/personal-website/__docusaurus/debug/config-c5c": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---personal-website-docusaurus-debugb-38-b4f"
+    }
+  },
+  "/personal-website/__docusaurus/debug/content-dbb": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---personal-website-docusaurus-debugb-38-b4f"
     },
-    "sidebar": "814f3328",
+    "__props": "__props---personal-website-docusaurus-debug-content-27-a-3b7"
+  },
+  "/personal-website/__docusaurus/debug/globalData-8b3": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---personal-website-docusaurus-debugb-38-b4f"
+    }
+  },
+  "/personal-website/__docusaurus/debug/metadata-de2": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---personal-website-docusaurus-debugb-38-b4f"
+    }
+  },
+  "/personal-website/__docusaurus/debug/registry-976": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---personal-website-docusaurus-debugb-38-b4f"
+    }
+  },
+  "/personal-website/__docusaurus/debug/routes-376": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---personal-website-docusaurus-debugb-38-b4f"
+    }
+  },
+  "/personal-website/blog-a06": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---personal-website-blog-369-c03"
+    },
+    "sidebar": "sidebar---personal-website-blog-814-981",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---personal-website-blog-766-e30"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---personal-website-blogf-4-f-ac4"
       },
       {
-        "content": "8717b14a"
+        "content": "content---personal-website-blog-871-84e"
       },
       {
-        "content": "925b3f96"
+        "content": "content---personal-website-blog-925-3ea"
       }
     ],
-    "__props": "a909a5e0"
+    "__props": "__props---personal-website-bloga-90-a0c"
   },
   "/personal-website/blog/archive-ddb": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
-    "__props": "d5391532"
+    "__props": "__props---personal-website-blog-archived-53-b26"
   },
   "/personal-website/blog/authors-26a": {
-    "__comp": "621db11d",
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---personal-website-blog-authorsace-d4c"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
-    "sidebar": "814f3328",
-    "__props": "ec476dc4"
+    "sidebar": "sidebar---personal-website-blog-814-981",
+    "__props": "__props---personal-website-blog-authorsec-4-4d2"
   },
   "/personal-website/blog/authors/all-sebastien-lorber-articles-0ea": {
-    "__comp": "33fc5bb8",
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---personal-website-blog-authorsace-d4c"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---personal-website-blog-766-e30"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---personal-website-blogf-4-f-ac4"
       },
       {
-        "content": "925b3f96"
+        "content": "content---personal-website-blog-925-3ea"
       }
     ],
-    "sidebar": "814f3328",
-    "__props": "43add307"
+    "sidebar": "sidebar---personal-website-blog-814-981",
+    "__props": "__props---personal-website-blog-authors-all-sebastien-lorber-articles-43-a-2d3"
   },
   "/personal-website/blog/authors/yangshun-88c": {
-    "__comp": "33fc5bb8",
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---personal-website-blog-authorsace-d4c"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---personal-website-blog-766-e30"
       },
       {
-        "content": "8717b14a"
+        "content": "content---personal-website-blog-871-84e"
       },
       {
-        "content": "925b3f96"
+        "content": "content---personal-website-blog-925-3ea"
       }
     ],
-    "sidebar": "814f3328",
-    "__props": "1068ce5c"
+    "sidebar": "sidebar---personal-website-blog-814-981",
+    "__props": "__props---personal-website-blog-authors-yangshun-106-225"
   },
   "/personal-website/blog/first-blog-post-a07": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---personal-website-blog-authorsace-d4c"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
+    "sidebar": "sidebar---personal-website-blog-814-981",
+    "content": "content---personal-website-blog-first-blog-poste-27-35e"
   },
   "/personal-website/blog/long-blog-post-f62": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---personal-website-blog-authorsace-d4c"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
-    "sidebar": "814f3328",
-    "content": "73664a40"
+    "sidebar": "sidebar---personal-website-blog-814-981",
+    "content": "content---personal-website-blog-long-blog-post-736-d23"
   },
   "/personal-website/blog/mdx-blog-post-47b": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---personal-website-blog-authorsace-d4c"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
-    "sidebar": "814f3328",
-    "content": "59362658"
+    "sidebar": "sidebar---personal-website-blog-814-981",
+    "content": "content---personal-website-blog-mdx-blog-post-593-600"
   },
   "/personal-website/blog/tags-9c4": {
-    "__comp": "01a85c17",
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
-    "sidebar": "814f3328",
-    "__props": "cefd7111"
+    "sidebar": "sidebar---personal-website-blog-814-981",
+    "__props": "__props---personal-website-blog-tagscef-780"
   },
   "/personal-website/blog/tags/docusaurus-f1a": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---personal-website-blog-814-981",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---personal-website-blog-766-e30"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---personal-website-blogf-4-f-ac4"
       },
       {
-        "content": "8717b14a"
+        "content": "content---personal-website-blog-871-84e"
       },
       {
-        "content": "925b3f96"
+        "content": "content---personal-website-blog-925-3ea"
       }
     ],
-    "__props": "760a851b"
+    "__props": "__props---personal-website-blog-tags-docusaurus-760-b02"
   },
   "/personal-website/blog/tags/facebook-476": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---personal-website-blog-814-981",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---personal-website-blog-766-e30"
       }
     ],
-    "__props": "6607b2ab"
+    "__props": "__props---personal-website-blog-tags-facebook-660-757"
   },
   "/personal-website/blog/tags/hello-352": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---personal-website-blog-814-981",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---personal-website-blog-766-e30"
       },
       {
-        "content": "8717b14a"
+        "content": "content---personal-website-blog-871-84e"
       }
     ],
-    "__props": "5b196314"
+    "__props": "__props---personal-website-blog-tags-hello-5-b-1-78e"
   },
   "/personal-website/blog/tags/hola-03e": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---personal-website-blog-814-981",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "content---personal-website-blog-925-3ea"
       }
     ],
-    "__props": "3d3d65ab"
+    "__props": "__props---personal-website-blog-tags-hola-3-d-3-405"
   },
   "/personal-website/blog/welcome-c93": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "acecf23e"
+        "blogMetadata": "blogMetadata---personal-website-blog-authorsace-d4c"
       },
-      "plugin": "36994c47"
+      "plugin": "plugin---personal-website-blog-369-c03"
     },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
+    "sidebar": "sidebar---personal-website-blog-814-981",
+    "content": "content---personal-website-blog-welcomed-9-f-4d6"
   },
   "/personal-website/markdown-page-489": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---personal-website-markdown-pagea-74-f29"
     },
-    "content": "393be207"
+    "content": "content---personal-website-markdown-page-393-80d"
   },
   "/personal-website/docs-6ec": {
-    "__comp": "5e95c892",
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---personal-website-docsaba-5c1"
     }
   },
   "/personal-website/docs-f37": {
-    "__comp": "a7bd4aaa",
-    "__props": "31fe1a85"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---personal-website-docs-31-f-1bb"
   },
   "/personal-website/docs-d3f": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/personal-website/docs/category/tutorial---basics-37e": {
-    "__comp": "14eb3368",
-    "__props": "2e8025df"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---personal-website-docs-category-tutorial-basics-2-e-8-f46"
   },
   "/personal-website/docs/category/tutorial---extras-eee": {
-    "__comp": "14eb3368",
-    "__props": "2a2c535b"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---personal-website-docs-category-tutorial-extras-2-a-2-771"
   },
   "/personal-website/docs/intro-11e": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---personal-website-docs-intro-0-e-3-d0a"
   },
   "/personal-website/docs/tutorial-basics/congratulations-55e": {
-    "__comp": "17896441",
-    "content": "822bd8ab"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---personal-website-docs-tutorial-basics-congratulations-822-d33"
   },
   "/personal-website/docs/tutorial-basics/create-a-blog-post-bbc": {
-    "__comp": "17896441",
-    "content": "533a09ca"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---personal-website-docs-tutorial-basics-create-a-blog-post-533-e10"
   },
   "/personal-website/docs/tutorial-basics/create-a-document-55c": {
-    "__comp": "17896441",
-    "content": "1e4232ab"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---personal-website-docs-tutorial-basics-create-a-document-1-e-4-633"
   },
   "/personal-website/docs/tutorial-basics/create-a-page-6b5": {
-    "__comp": "17896441",
-    "content": "5c868d36"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---personal-website-docs-tutorial-basics-create-a-page-5-c-8-7bb"
   },
   "/personal-website/docs/tutorial-basics/deploy-your-site-615": {
-    "__comp": "17896441",
-    "content": "f55d3e7a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---personal-website-docs-tutorial-basics-deploy-your-sitef-55-61e"
   },
   "/personal-website/docs/tutorial-basics/markdown-features-463": {
-    "__comp": "17896441",
-    "content": "18c41134"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---personal-website-docs-tutorial-basics-markdown-features-18-c-c82"
   },
   "/personal-website/docs/tutorial-extras/manage-docs-versions-338": {
-    "__comp": "17896441",
-    "content": "dff1c289"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---personal-website-docs-tutorial-extras-manage-docs-versionsdff-88e"
   },
   "/personal-website/docs/tutorial-extras/translate-your-site-1e8": {
-    "__comp": "17896441",
-    "content": "e44a2883"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---personal-website-docs-tutorial-extras-translate-your-sitee-44-eb3"
   },
   "/personal-website/-f15": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---personal-website-markdown-pagea-74-f29"
     },
-    "config": "5e9f5e1a"
+    "config": "config---personal-website-5-e-9-d3d"
   }
 }
