@@ -3,12 +3,20 @@
  * and scoped locally.
  */
 
- .heroBanner {
+ @keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.heroBanner {
   padding: 8rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
-  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  background: linear-gradient(135deg, #0a74da, #2575fc, #004aad, #1e3a8a);
+  background-size: 300% 300%;
+  animation: gradientMove 8s ease infinite;
   color: white;
 }
 

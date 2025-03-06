@@ -54,10 +54,6 @@ export default {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
       "title": "Gustavo Lösch do Amaral",
-      "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
-      },
       "items": [
         {
           "type": "docSidebar",
@@ -69,11 +65,6 @@ export default {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -115,8 +106,8 @@ export default {
               "to": "/blog"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "GitLab",
+              "href": "https://gmapsrv.pucrs.br/gitlab/gustavo-losch"
             }
           ]
         }
